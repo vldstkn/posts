@@ -1,7 +1,0 @@
-env: "local"
-db_connect: "user=postgres dbname=p1 password=123456 sslmode=disable"
-jwt_secret: "dlfgnenionhpcbifdbiunbfnbdiobdfbu"
-http_server:
-  address: "localhost:6543"
-  timeout: 4s
-  idle_timeout: 60s
