@@ -1,3 +1,3 @@
-configs
-tmp
-.idea
+configs/
+tmp/
+.idea/
